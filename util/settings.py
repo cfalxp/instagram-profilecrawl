@@ -11,7 +11,7 @@ class Settings:
     profile_file_with_timestamp = True
     profile_commentors_file_with_timestamp = True
     limit_amount = 10
-    scrape_posts_infos = True
+    scrape_posts_infos = False
     scrape_posts_likers = False
     scrape_follower = False
     output_comments = False

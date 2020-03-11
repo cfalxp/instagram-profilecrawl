@@ -97,3 +97,6 @@ virtualenv/
 
 # Max OSX files
 .DS_Store
+
+# ignore user data file
+credentials.json
